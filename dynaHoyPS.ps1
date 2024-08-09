@@ -1,6 +1,6 @@
 $localAddress = '192.168.178.188'    # the IP address of your openDTU
 $username = 'admin'
-$password = 'admin'
+$password = 'openDTU42'
 
 $powerLimit = 800   # in watts - this is the target output limit
 
