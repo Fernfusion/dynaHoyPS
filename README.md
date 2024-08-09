@@ -18,7 +18,7 @@ This PowerShell script connects to an OpenDTU which then connects to the Hoymile
 You need to configure some parameter:
   - `$localAddress`: set this to the IP address of your openDTU; example `192.168.178.188`
   - `$username`: set this to the username of the administrativ account of your openDTU; example `admin`
-  - `$password`: set this to the password of the administrativ of your openDTU; example `admin`
+  - `$password`: set this to the password of the administrativ of your openDTU; example `openDTU42`
   - `$localAddress`: set this to the IP address of your openDTU; example `192.168.178.188`
   - `$powerLimit`: set this to the number of Watts you want the inverter to output at max
   - `$upperLimit`: set this to the upper limit the inverter should be set to; i.e. 100 means 100% of the max power output of your inverter; example `100`
